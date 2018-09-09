@@ -1,0 +1,26 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Viewing a diff between the two versions allowed me to rapidly spot the bug,
+as it did not show me all the code which was exactly the same between the files.
+Doing this made the differences apparent, and thus made the bug apparent, 
+as the bug was a result of previous changes.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It saves old work, so if you must revert you are able to do so.
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use the git log to see all the revisions along with their revision messages. This helps you easily
+locate old changes. Diff allows you to see the changes made between revisions.
+
+How might using version control make you more confident to make changes that could break something?
+
+Using version control allows you to go back and see when and why a bug is present. If you introduce a bad
+bug you can always revert and submit changes to fix it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Making video games with friends!
+
+

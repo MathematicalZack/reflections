@@ -9,4 +9,6 @@ The working directory is where the actual changes are committed to once they hav
 The staging area allows you to package changes easily without simply submitting all changes. This helps
 with the notion of 'logical change'.
 
-
+How can you use the staging area to make sure you have one commit per logical change?
+When you have made more than one logical change between commits, you can use the staging area to put
+them in one at a time.

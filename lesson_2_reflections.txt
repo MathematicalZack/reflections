@@ -12,3 +12,13 @@ with the notion of 'logical change'.
 How can you use the staging area to make sure you have one commit per logical change?
 When you have made more than one logical change between commits, you can use the staging area to put
 them in one at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches could be useful for experimenting with a concept that you are not sure you want to
+integrate into the master code base.
+
+How do the diagrams help you visualize the branch structure?
+
+They demonstrate the structure graphically to understand it as a series of steps
+
+

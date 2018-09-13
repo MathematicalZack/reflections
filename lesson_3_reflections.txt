@@ -11,4 +11,5 @@ you want to have it locally, or contribute to it. You would branch when you do n
 a series of commits you intend to make. You would fork when you want to copy a repo to your GitHub account and maintain credit
 for the previous owner.
 
-
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So that the local copy can be checked against it.

@@ -17,3 +17,7 @@ So that the local copy can be checked against it.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use subversion. Git has the advantage of the local repo, so you can go back to an earlier version offline. This is a very convenient feature.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You would want to make changes in a separate branch when your feature will require a series of commits, and you're wanting to do
+it as an experiment.
